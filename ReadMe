@@ -3,3 +3,6 @@ The users have to sign in, in order to buy and sell items.
 The users can upload items for sale and can also buy items from other users.
 The app uses cookies for each user.
 An admin can also login and have supervision of every sale and every item that is uploaded.
+
+The Java files(Servlets) that run the App are located in the Final/src/servlets directory.
+And the Java files that are responsible for the User Log In are located in final/src/jdbc directory.
