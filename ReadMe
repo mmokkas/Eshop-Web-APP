@@ -6,3 +6,4 @@ An admin can also login and have supervision of every sale and every item that i
 
 The Java files(Servlets) that run the App are located in the Final/src/servlets directory.
 And the Java files that are responsible for the User Log In are located in final/src/jdbc directory.
+The Web Content directory contains the html and css files that are used for the front-end of the web-app.
