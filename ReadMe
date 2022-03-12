@@ -1,3 +1,5 @@
-Its a Web Application made using the old methods of Java servlets.
-It allows users to upload items for sale and also buy items.
+It's a Web Application that is using Java servlets and a connection to an SQL DataBase.
+The users have to sign in, in order to buy and sell items.
+The users can upload items for sale and can also buy items from other users.
+The app uses cookies for each user.
 An admin can also login and have supervision of every sale and every item that is uploaded.
